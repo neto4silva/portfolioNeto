@@ -1,0 +1,64 @@
+/* .calendario {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.botoes-mes {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+button {
+  margin-bottom: 10px;
+  margin-right: 5px;
+}
+
+.nome-mes {
+  margin: 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+td {
+  cursor: pointer;
+}
+
+td.vazio {
+  background-color: #eaeaea;
+}
+
+td:hover {
+  background-color: #f2f2f2;
+}
+
+tr.dias-semana {
+  background-color: #f2f2f2;
+}
+
+td.dia {
+  width: calc(100% / 7);
+  height: 40px;
+} */

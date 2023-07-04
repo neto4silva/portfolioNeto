@@ -1,0 +1,20 @@
+.informacoes {
+  position: absolute;
+  top: 70px; /* ajuste a distância do topo conforme necessário */
+  left: 420px; /* ajuste a distância da esquerda conforme necessário */
+  color: white;
+}
+
+.informacoes form {
+  max-width: 80%;
+  background-color: #4f406d;
+  border-radius: 20px;
+  padding: 140px 500px;
+  box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);
+}
+
+.informacoes h3 {
+  border-bottom: 3px solid rgb(0, 179, 119);
+  display: inline-block;
+  padding-bottom: 8px;
+}
