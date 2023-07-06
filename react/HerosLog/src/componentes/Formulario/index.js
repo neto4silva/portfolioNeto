@@ -21,9 +21,9 @@ const Formulario = (props) => {
       event.preventDefault()
       props.aoPersonagemCadastrado({
         nick,
-        level,
-        imagem,
-        Vocacao,
+        // level,
+        // imagem,
+        // Vocacao,
       })
     }
 
