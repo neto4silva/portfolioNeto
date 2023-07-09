@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="200px" height="243px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 200 242.88"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:url(#id0);fill-rule:nonzero}
+    .fil0 {fill:url(#id1);fill-rule:nonzero}
+   ]]>
+  </style>
+  <radialGradient id="id0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.619962 -0 -0 1 51 0)" cx="133.33" cy="135.9" r="117.6" fx="133.33" fy="135.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#5A46C8"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#008CFF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#5A46C8"/>
+  </radialGradient>
+  <radialGradient id="id1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.619914 -0 -0 1.00001 25 0)" xlink:href="#id0" cx="66.67" cy="108.11" r="117.61" fx="66.67" fy="108.11">
+  </radialGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2004226769312">
+   <polygon class="fil0" points="0,0.56 0,215.65 35.23,215.65 35.23,67.52 133.34,124.34 133.34,77.8 "/>
+   <polygon class="fil1" points="164.77,176.48 66.66,119.66 66.66,166.21 200,243.44 200,28.36 164.77,28.36 "/>
+  </g>
+ </g>
+</svg>
