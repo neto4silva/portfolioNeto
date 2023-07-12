@@ -217,7 +217,7 @@ img {
 
   .apresentacao__links1 {
     flex-direction: column;
-    gap: 10px;
+    gap: 20px;
   }
 
   .apresentacao__links__link {
