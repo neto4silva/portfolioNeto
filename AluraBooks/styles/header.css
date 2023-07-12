@@ -1,0 +1,75 @@
+.cabecalho__menu__hamb {
+  width: 30px;
+  height: 24px;
+  background-image: url("../asstes/Menu.svg"); 
+  display: inline-block;
+  background-repeat: no-repeat;  background-position: center;
+  margin-right: 20px;
+  margin-left: 15px;
+}
+
+.cabecalho {
+  background-color: var(--branco);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.container__imagem {
+  padding: 0.5;
+}
+
+.lista-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  width: 65vw;
+}
+
+.container__botao:checked~.lista-menu {
+  display: block;
+}
+
+.container__botao {
+  display: none;
+}
+
+.lista-menu__titulo, .lista-menu__item {
+  padding: 0.5em;
+  background-color: var(--branco);
+}
+
+
+.lista-menu__titulo {
+  color: var(--laranja);
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.lista-menu__link {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-left: 20px;
+  color: #002f52;
+}
+
+.lista-menu__item:hover {
+  background: var(--laranja);
+}
+
+
+

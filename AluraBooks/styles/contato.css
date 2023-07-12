@@ -1,0 +1,33 @@
+.contato {
+  background-color: var(--branco);
+  padding: 1em;
+}
+
+.contato__titulo {
+  font-family: 'Poppins', sans-serif;
+  color: #002f52;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.contato__texto {
+  font-family: 'Poppins', sans-serif;
+  color: #002f52;
+  font-weight: 300;
+  padding: 0.7em 0;
+}
+
+.contato__email {
+  padding: 1em;
+  border: 1px solid #002f52;
+  border-radius: 20px;
+  width: 90%;
+  color: #002f52;
+}
+
+.contato__email::placeholder {
+  font-family: 'Poppins', sans-serif;
+  color: #002f52;
+  background: url("../asstes/Email.svg") no-repeat;
+  padding-left: 2em;
+}
