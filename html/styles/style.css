@@ -70,6 +70,7 @@ body {
 .apresentacao__conteudo__subtitulo {
   font-family: 'Krona One', sans-serif;
   font-weight: 400;
+  text-align: center;
 }
 
 .apresentacao__conteudo__paragrafo {
@@ -210,14 +211,16 @@ img {
     font-size: 1.125rem;
   }
 
+  .apresentacao__links_titulo {
+    gap: 10px;
+  }
+
   .apresentacao__links {
     flex-direction: column;
-    gap: 10px;
   }
 
   .apresentacao__links1 {
     flex-direction: column;
-    gap: 20px;
   }
 
   .apresentacao__links__link {
